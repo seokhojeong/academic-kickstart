@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "1950s"
+  color_theme = "default"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -294,7 +294,8 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications_selected"
+  #url = "#publications_selected"
+  url = "publication"
   weight = 2
 
 #[[menu.main]]
