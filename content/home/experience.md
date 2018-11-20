@@ -43,12 +43,21 @@ date_format = "January 2006"
   description = """ """
 
 [[experience]]
-  title = "Field Research Engineer"
+  title = "Field research engineer"
   company = "QuakeCoRE/University of Canterbury"
   company_url = ""
   location = "Christchurch, New Zealand"
   date_start = "2016-09-15"
   date_end = "2018-04-27"
+  description = """ """
+
+[[experience]]
+  title = "Postdoctoral fellow"
+  company = "University of Canterbury"
+  company_url = ""
+  location = "Christchurch, New Zealand"
+  date_start = "2014-06-12"
+  date_end = "2016-09-14"
   description = """ """
 
 
