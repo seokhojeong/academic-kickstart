@@ -39,7 +39,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Hamilton, New Zealand"
   date_start = "2018-04-30"
-  date_end = "present"
+  date_end = ""
   description = """ """
 
 [[experience]]
