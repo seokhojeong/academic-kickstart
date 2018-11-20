@@ -1,0 +1,12 @@
++++
+title = "Ground-Motion Observations at Hotel Montana during the M 7.0 2010 Haiti Earthquake: Topography or Soil Amplification?"
+date = 2013-10-01
+authors = ["Dominic Assimaki", "Seokho Jeong"]
+publication_types = ["2"]
+abstract = "Unusually severe structural damage was reported during the 2010 M 7.0 Haiti earthquake in the vicinity of Hotel Montana, located on top of a ridge in the district of Pétionville. Prompted by the observations, U.S. Geological Survey seismic stations were deployed, and aftershock recordings indicated ground‐motion amplification on the top of the hill compared to adjacent stations on reference site conditions. The presence of topographic relief has been shown to significantly aggravate the consequences of strong ground motion during past events, and topographic effects were brought forward to explain the observations. In this paper, we test the hypothesis of topographic amplification as the dominant factor that contributed to the damage concentration in the vicinity of Hotel Montana. We initially conduct numerical simulations of the ridge seismic response assuming elastic homogeneous site conditions, and show that numerical predictions of topographic amplification disagree with the field data both in amplitude and in frequency. Conversely, while 1D ground‐response analyses for the site conditions at the hilltop predict amplification in the same frequency range as the field data, they significantly underestimate the recorded amplitude. We then conduct numerical simulations of the foothill ridge response to seismic motion while accounting for soil layering, and qualitatively demonstrate that the recorded amplification is most likely attributed to coupled site–topographic amplification effects, namely to seismic waves trapped in the soft soil layers of the near surface, amplified as a consequence of reverberations, and further modified due to diffraction and scattering upon incidence on the irregular ground surface. Parametric investigations of the topography–soil amplification coupling effects are then conducted, and our results show that when accounting for a hypothetical soil–bedrock interface at 100 m depth, predictions are in excellent agreement with the observed motion."
+selected = "true"
+publication = "*Bulletin of the Seismological Society of America*"
+url_pdf = "https://pubs.geoscienceworld.org/bssa/article/103/5/2577-2590/331623"
+doi = "10.1785/0120120242"
++++
+
