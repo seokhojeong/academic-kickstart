@@ -4,9 +4,8 @@ date = 2017-10-01
 authors = ["Seokho Jeong", "Brendon A. Bradley"]
 publication_types = ["2"]
 abstract = ""
-selected = "true"
+selected = "false"
 publication = "*Bulletin of the Seismological Society of America*"
-url_pdf = "https://pubs.geoscienceworld.org/bssa/article-lookup?doi=10.1785/0120160389"
 doi = "10.1785/0120160389"
 +++
 

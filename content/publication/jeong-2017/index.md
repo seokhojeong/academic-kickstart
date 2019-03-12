@@ -4,10 +4,9 @@ date = 2017-09-01
 authors = ["Seokho Jeong", "Brendon A Bradley"]
 publication_types = ["2"]
 abstract = "Abstract The strong motion station at Heathcote Valley School (HVSC) recorded intense ground accelerations (peak value of 1.4 g in horizontal and 2.2 g in vertical component) during the 22 February 2011 Christchurch earthquake. More importantly, ground motions recorded at HVSC in numerous other events during the 2010–2011 Canterbury earthquake sequence also exhibited consistently larger peak ground accelerations compared with nearby strong motion stations, which suggests significant near-surface site amplification effects. This paper presents a quantitative case study of near-surface site effects of Heathcote Valley during the 2010–2011 Canterbury earthquake sequence, by means of one-dimensional nonlinear dynamic finite element analyses based on the recorded ground motions and a rigorous site characterisation study. Various geophysical and geotechnical in-situ tests are performed to establish a simplified three-dimensional representation of wave velocities, mass densities and the geological structure (i.e. layering) of Heathcote Valley. Simulations are performed using the velocity profile at the location of station HVSC with the finite element analysis program OpenSees. Overall, simulations agree well with the recorded motions and suggest that ground motions at HVSC are amplified in a wide band of frequencies. However, the one-dimensional simulations tend to underestimate the site response at frequencies higher than the site fundamental frequency, likely due to its inability of modelling surface waves caused by the inclined soil-rock interface. Comparison between the nonlinear and the equivalent linear model shows that, although both approaches produce similar level of peak amplitude, the equivalent linear model significantly underestimates the high frequency motions."
-selected = "true"
+selected = "false"
 publication = "*Soil Dynamics and Earthquake Engineering*"
 tags = ["Canterbury earthquakes", "Christchurch earthquake", "Ground motion", "Heathcote Valley", "Site effects", "Site response simulation"]
-url_pdf = "https://linkinghub.elsevier.com/retrieve/pii/S0267726117305675"
 doi = "10.1016/j.soildyn.2017.06.004"
 +++
 
