@@ -23,8 +23,8 @@ weight = 5
   year = 2013
 
 [[education.courses]]
-  course = "Master in Earthquake Engineering and Engineering Seismology"
-  institution = "Grenoble Alps University/University of Pavia/University of Patras"
+  course = "MSc (Earthquake Engineering and Engineering Seismology)"
+  institution = "Grenoble Alps University; University of Pavia (ROSE School); University of Patras"
   year = 2008
 
 [[education.courses]]
@@ -42,10 +42,9 @@ weight = 5
 
 # About me
 
-I am a lecturer in Civil Engineering at the University of Waikato, New Zealand, specialising in Geotechnical Earthquake Engineering and Geophysics.
-I obtained BE in Civil Engineering from Changwon National University in South Korea, Master in Earthquake Engineering and Engineering Seismology (MEEES) from Grenoble Alps University/University of Pavia/University of Patras as part of the Erasmus Mundus program in Europe, and PhD in Civil Engieering from Georgia Institute of Technology in the USA.
+I am a lecturer in Civil Engineering at the University of Waikato, New Zealand, with expertise in Geotechnical Earthquake Engineering and Geophysics.
+I obtained BE in Civil Engineering from Changwon National University in South Korea, Master in Earthquake Engineering and Engineering Seismology (MEEES) from Grenoble Alps University/University of Pavia/University of Patras as part of the Erasmus Mundus program in Europe, and PhD in Civil Engineering from Georgia Institute of Technology in the USA.
 
+My research aims to advance the knowledge on the nature of earthquake ground shaking and develop new techniques to improve the Geotechnical and Earthquake Engineering practice.
 My current research focuses on characterising the seismic hazard and the associated risks, accounting for the local and regional variability caused by the complex near-surface site effect, such as the topographic effects and the sedimentary basin effects.
-The long-term goal of my research is to mitigate the seismic risks and to enhance the infrastructure resilience by delivering innovative research leading the engineering practice, taking advantage of the concurrent science and technology.
-
 

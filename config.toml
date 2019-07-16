@@ -65,7 +65,7 @@ enableGitInfo = false
   email = "seokho.jeong@waikato.ac.nz"
   address = "School of Engineering, Private Bag 3105, University of Waikato, Hamilton 3240, New Zealand"
   office_hours = ""
-  phone = "+64 8 858 5645"
+  phone = "+64 7 858 5645"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -193,9 +193,10 @@ enableGitInfo = false
     'Conference paper',  # 1
     'Journal article',  # 2
     'Manuscript',  # 3
-    'Report',  # 4
-    'Book',  # 5
-    'Book section'  # 6
+    'Thesis',  # 4
+    'Report', # 5
+    'Book',  # 6
+    'Book section'  # 7
   ]
 
   # Configuration of talk pages.
