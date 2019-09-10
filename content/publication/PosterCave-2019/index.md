@@ -1,6 +1,5 @@
 +++
-title = "Dynamic site characterisation of the Waikato basin using passive and
-active surface wave methods"
+title = "Dynamic site characterisation of the Waikato basin using passive and active surface wave methods"
 date = 2019-09-03T00:00:00+00:00
 draft = false
 
@@ -50,7 +49,7 @@ slides = ""
 tags = ["Site characterisation", "Site effect"]
 
 # Links (optional).
-url_pdf = "publications/posters/QCAM_2019_Cave-compressed.pdf"
+url_pdf = "publications/posters/QCAM2019_Cave-compressed.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
