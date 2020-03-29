@@ -34,12 +34,21 @@ date_format = "January 2006"
 #   """
 
 [[experience]]
+  title = "Assistant Professor"
+  company = "Changwon National University"
+  company_url = ""
+  location = "Changwon, South Korea"
+  date_start = "2020-03-01"
+  date_end = ""
+  description = """ """
+
+[[experience]]
   title = "Lecturer"
   company = "University of Waikato"
   company_url = ""
   location = "Hamilton, New Zealand"
   date_start = "2018-04-30"
-  date_end = ""
+  date_end = "2020-02-14"
   description = """ """
 
 [[experience]]
